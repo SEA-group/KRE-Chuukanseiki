@@ -155,7 +155,7 @@
 			<primitive>	MidFrontShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -169,7 +169,7 @@
 			<primitive>	MidFront_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -197,7 +197,7 @@
 			<primitive>	MidFront_UnderwaterShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -211,7 +211,7 @@
 			<primitive>	MidFront_crack_BowShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -239,7 +239,7 @@
 			<primitive>	MidFront_crack_Bow_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -253,7 +253,7 @@
 			<primitive>	MidFront_crack_Bow_UnderwaterShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -267,7 +267,7 @@
 			<primitive>	MidFront_crack_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -295,7 +295,7 @@
 			<primitive>	MidFront_crack_MidBack_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -309,7 +309,7 @@
 			<primitive>	MidFront_crack_MidBack_UnderwaterShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -323,7 +323,7 @@
 			<primitive>	MidFront_patch_MidBackShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<identifier>	SHIPMAT_PBS_HullX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -337,7 +337,7 @@
 			<primitive>	MidFront_patch_MidBack_DeckHouseShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -351,7 +351,7 @@
 			<primitive>	MidFront_patch_MidBack_UnderwaterShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<identifier>	SHIPMAT_PBS_BulgeX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
 				</material>
 			</primitiveGroup>

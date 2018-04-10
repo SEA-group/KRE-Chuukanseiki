@@ -29,7 +29,7 @@
 			<primitive>	AGS099_5in54_MK16_dead_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDead	</identifier>
+					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/gun/AGS099_5in54_MK16_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>
