@@ -1,0 +1,17 @@
+<AAF012_Vought_F4U.mfm>
+	<fx>	shaders/std_effects/PBS_emissive.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/aircraft/Profiterole_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/aircraft/Profiterole_n.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/aircraft/Profiterole_a.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/aircraft/default_ao.dds	</Texture>
+	</property>
+</AAF012_Vought_F4U.mfm>

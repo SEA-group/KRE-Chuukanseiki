@@ -1,1 +1,360 @@
-<ASA015_Midway_1945_MidFront_lod1.visual><boundingBox><min>-1.463088 -0.723115 1.423079</min><max>1.486176 1.869236 6.611543</max></boundingBox><node><identifier>Scene Root</identifier><transform><row0>1.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000</row1><row2>0.000000 0.000000 1.000000</row2><row3>0.000000 0.000000 0.000000</row3></transform><node><identifier>MidFront</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidFront_DeckHouse</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidFront_Net</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidFront_Underwater</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidFront_crack_Bow_DeckHouse</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidFront_crack_Bow_Underwater</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidFront_crack_Bow</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidFront_crack_Bow_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>MidFront_crack_MidBack_DeckHouse</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidFront_crack_MidBack_Underwater</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidFront_crack_MidBack</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform><node><identifier>MidFront_crack_MidBack_in</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node><node><identifier>MidFront_patch_MidBack_DeckHouse</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidFront_patch_MidBack_Underwater</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node><node><identifier>MidFront_patch_MidBack</identifier><transform><row0>1.000000 0.000000 0.000000 0.000000</row0><row1>0.000000 1.000000 0.000000 0.000000</row1><row2>0.000000 0.000000 1.000000 0.000000</row2><row3>0.000000 0.000000 0.000000 1.000000</row3></transform></node></node></node><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront</node><geometry><vertices>MidFront_lod1Shape.vertices</vertices><primitive>MidFront_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Hull</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/e67e1e2359eadefe0458213ed47fa633.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_DeckHouse</node><geometry><vertices>MidFront_DeckHouse_lod1Shape.vertices</vertices><primitive>MidFront_DeckHouse_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_DeckHouse</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/f8106514c2986ce4f35172a8189590a9.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_Net</node><geometry><vertices>MidFront_Net_lod1Shape.vertices</vertices><primitive>MidFront_Net_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Net</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/1786a5443b3dc448a89e87c65cf56d1e.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_Underwater</node><geometry><vertices>MidFront_Underwater_lod1Shape.vertices</vertices><primitive>MidFront_Underwater_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Bulge</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/e73937ea0b51ffb41a1a0f80c96afec8.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_Bow_DeckHouse</node><geometry><vertices>MidFront_crack_Bow_DeckHouse_lod1Shape.vertices</vertices><primitive>MidFront_crack_Bow_DeckHouse_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_DeckHouse</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/f8106514c2986ce4f35172a8189590a9.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_Bow_Underwater</node><geometry><vertices>MidFront_crack_Bow_Underwater_lod1Shape.vertices</vertices><primitive>MidFront_crack_Bow_Underwater_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Bulge</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/e73937ea0b51ffb41a1a0f80c96afec8.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_Bow</node><geometry><vertices>MidFront_crack_Bow_lod1Shape.vertices</vertices><primitive>MidFront_crack_Bow_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Hull</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/e67e1e2359eadefe0458213ed47fa633.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_Bow_in</node><geometry><vertices>MidFront_crack_Bow_in_lod1Shape.vertices</vertices><primitive>MidFront_crack_Bow_in_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/a6aacd5621681d489dfc55e41fa27566.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_MidBack_DeckHouse</node><geometry><vertices>MidFront_crack_MidBack_DeckHouse_lod1Shape.vertices</vertices><primitive>MidFront_crack_MidBack_DeckHouse_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_DeckHouse</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/f8106514c2986ce4f35172a8189590a9.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_MidBack_Underwater</node><geometry><vertices>MidFront_crack_MidBack_Underwater_lod1Shape.vertices</vertices><primitive>MidFront_crack_MidBack_Underwater_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Bulge</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/e73937ea0b51ffb41a1a0f80c96afec8.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_MidBack</node><geometry><vertices>MidFront_crack_MidBack_lod1Shape.vertices</vertices><primitive>MidFront_crack_MidBack_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Hull</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/e67e1e2359eadefe0458213ed47fa633.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_crack_MidBack_in</node><geometry><vertices>MidFront_crack_MidBack_in_lod1Shape.vertices</vertices><primitive>MidFront_crack_MidBack_in_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Crack</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/a6aacd5621681d489dfc55e41fa27566.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_patch_MidBack_DeckHouse</node><geometry><vertices>MidFront_patch_MidBack_DeckHouse_lod1Shape.vertices</vertices><primitive>MidFront_patch_MidBack_DeckHouse_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_DeckHouse</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/f8106514c2986ce4f35172a8189590a9.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_patch_MidBack_Underwater</node><geometry><vertices>MidFront_patch_MidBack_Underwater_lod1Shape.vertices</vertices><primitive>MidFront_patch_MidBack_Underwater_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Bulge</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/e73937ea0b51ffb41a1a0f80c96afec8.mfm</mfm></material></primitiveGroup></geometry></renderSet><renderSet><treatAsWorldSpaceObject>false</treatAsWorldSpaceObject><node>MidFront_patch_MidBack</node><geometry><vertices>MidFront_patch_MidBack_lod1Shape.vertices</vertices><primitive>MidFront_patch_MidBack_lod1Shape.indices</primitive><primitiveGroup>0<material><identifier>SHIPMAT_PBS_Hull</identifier><mfm>PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/e67e1e2359eadefe0458213ed47fa633.mfm</mfm></material></primitiveGroup></geometry></renderSet></ASA015_Midway_1945_MidFront_lod1.visual>
+<ASA015_Midway_1945_MidFront_lod1.visual>
+	<boundingBox>
+		<min>	-1.463088 -0.723115 1.423079	</min>
+		<max>	1.486176 1.869236 6.611543	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	MidFront	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	MidFront_DeckHouse	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_Net	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_Underwater	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_crack_Bow_DeckHouse	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_crack_Bow_Underwater	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_crack_Bow	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidFront_crack_Bow_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidFront_crack_MidBack_DeckHouse	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_crack_MidBack_Underwater	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_crack_MidBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	MidFront_crack_MidBack_in	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+						<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+						<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+			<node>
+				<identifier>	MidFront_patch_MidBack_DeckHouse	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_patch_MidBack_Underwater	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MidFront_patch_MidBack	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront	</node>
+		<geometry>
+			<vertices>	MidFront_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_DeckHouse	</node>
+		<geometry>
+			<vertices>	MidFront_DeckHouse_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_DeckHouse_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_Net	</node>
+		<geometry>
+			<vertices>	MidFront_Net_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_Net_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Net	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/C001_Net.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_Underwater	</node>
+		<geometry>
+			<vertices>	MidFront_Underwater_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_Underwater_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_Bow_DeckHouse	</node>
+		<geometry>
+			<vertices>	MidFront_crack_Bow_DeckHouse_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_crack_Bow_DeckHouse_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_Bow_Underwater	</node>
+		<geometry>
+			<vertices>	MidFront_crack_Bow_Underwater_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_crack_Bow_Underwater_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_Bow	</node>
+		<geometry>
+			<vertices>	MidFront_crack_Bow_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_crack_Bow_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_Bow_in	</node>
+		<geometry>
+			<vertices>	MidFront_crack_Bow_in_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_crack_Bow_in_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack_DeckHouse	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBack_DeckHouse_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBack_DeckHouse_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack_Underwater	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBack_Underwater_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBack_Underwater_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBack_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBack_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_crack_MidBack_in	</node>
+		<geometry>
+			<vertices>	MidFront_crack_MidBack_in_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_crack_MidBack_in_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Crack	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/C002_Razlom.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_patch_MidBack_DeckHouse	</node>
+		<geometry>
+			<vertices>	MidFront_patch_MidBack_DeckHouse_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_patch_MidBack_DeckHouse_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_DeckHouse	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_patch_MidBack_Underwater	</node>
+		<geometry>
+			<vertices>	MidFront_patch_MidBack_Underwater_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_patch_MidBack_Underwater_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Bulge	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Underwater.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	MidFront_patch_MidBack	</node>
+		<geometry>
+			<vertices>	MidFront_patch_MidBack_lod1Shape.vertices	</vertices>
+			<primitive>	MidFront_patch_MidBack_lod1Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Hull	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</ASA015_Midway_1945_MidFront_lod1.visual>

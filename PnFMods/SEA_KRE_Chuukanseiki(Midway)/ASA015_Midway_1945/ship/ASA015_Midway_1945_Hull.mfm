@@ -1,0 +1,20 @@
+<ASA015_Midway_1945_Hull.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_ship_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	2.00000	</Float>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Hull_a.tga	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Hull_mg.tga	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Hull_ao.tga	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA015_Midway_1945/ship/ASA015_Midway_1945_Hull_n.tga	</Texture>
+	</property>
+</ASA015_Midway_1945_Hull.mfm>
