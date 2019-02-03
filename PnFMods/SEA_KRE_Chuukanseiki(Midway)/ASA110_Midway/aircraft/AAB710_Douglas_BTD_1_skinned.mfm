@@ -1,0 +1,17 @@
+<AAB710_Douglas_BTD_1_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/aircraft/ProfiteroleT_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/aircraft/ProfiteroleT_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/aircraft/ProfiteroleT_n.dds	</Texture>
+	</property>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/aircraft/default_ao.dds	</Texture>
+	</property>
+</AAB710_Douglas_BTD_1_skinned.mfm>

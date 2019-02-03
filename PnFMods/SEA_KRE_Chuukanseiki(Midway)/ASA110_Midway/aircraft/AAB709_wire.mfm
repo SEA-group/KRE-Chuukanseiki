@@ -1,0 +1,14 @@
+<AAB709_wire.mfm>
+	<materialKind>	0	</materialKind>
+	<collisionFlags>	0	</collisionFlags>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/aircraft/ProfiteroleT_a.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/aircraft/ProfiteroleT_n.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/aircraft/ProfiteroleT_mg.dds	</Texture>
+	</property>
+</AAB709_wire.mfm>
