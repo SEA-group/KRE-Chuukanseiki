@@ -1,16 +1,17 @@
-﻿# KRE Chuukanseiki (Midway)
+﻿# KRE Chuukanseiki
 
-======================Presented by SEA group======================
+Skin modification for tier 10 aircraft carrier **Midway**. 
 
-Installation: 
-Copy "PnFMods" and "PnFModsLoader.py" into /res_mods/a.b.c.d(current version)/
+Presented by SEA group
 
-安装：
-把PnFMods和PnFModsLoader.py放到
-游戏安装目录/res_mods/版本号/ 
-里面即可
+## Installation
+* **For WGC users**, copy `PnFMods` and `PnFModsLoader.py` into `[WoWS folder]/res_mods/[version number]/`
+* **For Steam users**, copy `PnFMods` and `PnFModsLoader.py` into `/steamapps/common/World of Warships/bin/[largest number]/res_mods/[version number]/`
 
-==================================================================
+## 使用方法
+* **WG游戏中心用户**请把`PnFMods`和`PnFModsLoader.py`放到`[游戏安装目录]/res_mods/[版本号]/`里面
+* **Steam客户端用户**请把`PnFMods`和`PnFModsLoader.py`放到`steamapps/common/World of Warships/bin/[数字最大的那个]/res_mods/[版本号]/`里面
 
-MMD Model Made by 自称動画(Pixiv ID: 1177498)
-Picture credit to お竹(Pixiv ID: 4639) 
+## Credits
+* MMD model made by [自称動画](https://www.pixiv.net/users/1177498)
+* Picture credit to [お竹](https://www.pixiv.net/users/4639) 

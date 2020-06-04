@@ -1,0 +1,11 @@
+<alpha.mfm>
+	<fx>	shaders/std_effects/lightonly_alpha_flat.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/aircraft/alpha.dds	</Texture>
+	</property>
+	<property>	doubleSided
+		<Bool>	false	</Bool>
+	</property>
+</alpha.mfm>

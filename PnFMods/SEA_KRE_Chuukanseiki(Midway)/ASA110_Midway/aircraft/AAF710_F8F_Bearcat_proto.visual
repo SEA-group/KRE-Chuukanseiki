@@ -749,7 +749,7 @@
 			<primitiveGroup>	0
 				<material>
 					<identifier>	PROPELLERMAT_propeller	</identifier>
-					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/aircraft/USA_Disk_4Blade_03_alpha.mfm	</mfm>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/aircraft/alpha.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
