@@ -1,7 +1,7 @@
 <AGA056_40mm_Bofors.model>
 	<castsShadow>	false	</castsShadow>
 	<extent>	2.000000	</extent>
-	<parent>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/gun/AGA056_40mm_Bofors_lod1	</parent>
+	<parent>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/gun/lods/AGA056_40mm_Bofors_lod1	</parent>
 	<materialNames />
 	<visibilityBox>
 		<min>	-0.144601 -0.000000 -0.091230	</min>

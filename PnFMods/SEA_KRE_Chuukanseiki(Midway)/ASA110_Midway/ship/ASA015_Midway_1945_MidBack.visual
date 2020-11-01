@@ -20,6 +20,15 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
+				<identifier>	Horn	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	MidBack_Net	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -368,6 +377,20 @@
 	</renderSet>
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Horn	</node>
+		<geometry>
+			<vertices>	SEA_Deckhouse.vertices	</vertices>
+			<primitive>	SEA_Deckhouse.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_HornX	</identifier>
+					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/ship/ASA015_Midway_1945_Horn.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
 		<node>	MidBack_DeckHouse	</node>
 		<geometry>
 			<vertices>	MidBack_DeckHouseShape.vertices	</vertices>
@@ -376,12 +399,6 @@
 				<material>
 					<identifier>	SHIPMAT_PBS_DeckHouseX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/ship/ASA015_Midway_1945_DeckHouse.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-			<primitiveGroup>	1
-				<material>
-					<identifier>	SHIPMAT_PBS_Horn	</identifier>
-					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/ship/ASA015_Midway_1945_Horn.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>

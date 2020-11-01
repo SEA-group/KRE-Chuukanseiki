@@ -29,6 +29,15 @@
 				</transform>
 			</node>
 			<node>
+				<identifier>	Picture	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
 				<identifier>	Bow_Net	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -123,9 +132,17 @@
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/ship/ASA015_Midway_1945_Hull.mfm	</mfm>
 				</material>
 			</primitiveGroup>
-			<primitiveGroup>	1
+		</geometry>
+	</renderSet>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	Picture	</node>
+		<geometry>
+			<vertices>	SEA_Picture.vertices	</vertices>
+			<primitive>	SEA_Picture.indices	</primitive>
+			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Picture	</identifier>
+					<identifier>	SHIPMAT_PBS_PictureX	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/ship/ASA015_Midway_1945_Picture.mfm	</mfm>
 				</material>
 			</primitiveGroup>
