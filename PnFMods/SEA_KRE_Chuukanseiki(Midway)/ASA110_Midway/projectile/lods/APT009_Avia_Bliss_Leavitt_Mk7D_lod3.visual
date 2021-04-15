@@ -34,7 +34,7 @@
 			<primitive>	Torpedo_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_NODAMAGE_PBS_Projectile	</identifier>
+					<identifier>	SHIPMATX_NODAMAGE_PBS_Projectile	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/projectile/APT009_Avia_Bliss_Leavitt_Mk7D.mfm	</mfm>
 				</material>
 			</primitiveGroup>

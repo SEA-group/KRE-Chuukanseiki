@@ -47,7 +47,7 @@
 			<primitive>	DirectorMk37Mod2_lod2Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMATX_PBS_Director	</identifier>
 					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/director/AD042_Director_Mk37_Mod2.mfm	</mfm>
 				</material>
 			</primitiveGroup>
