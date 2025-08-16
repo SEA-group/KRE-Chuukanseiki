@@ -1,74 +1,142 @@
 <AGA056_40mm_Bofors.visual>
+	<skeleton>
+		<node>
+			<identifier>	Scene Root	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	Bofors	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+				<node>
+					<identifier>	HP_gunFire1	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+						<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+						<row3>	0.059542 0.198863 0.139512 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_gunFire2	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+						<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+						<row3>	0.042095 0.198863 0.139512 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_gunFire3	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+						<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+						<row3>	-0.042095 0.198863 0.139512 1.000000	</row3>
+					</transform>
+				</node>
+				<node>
+					<identifier>	HP_gunFire4	</identifier>
+					<transform>
+						<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+						<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
+						<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
+						<row3>	-0.059540 0.198863 0.139512 1.000000	</row3>
+					</transform>
+				</node>
+			</node>
+		</node>
+	</skeleton>
+	<properties>
+		<underwaterModel>	false	</underwaterModel>
+		<abovewaterModel>	true	</abovewaterModel>
+	</properties>
 	<boundingBox>
 		<min>	-0.144601 -0.000000 -0.091230	</min>
 		<max>	0.144601 0.204075 0.142511	</max>
 	</boundingBox>
-	<node>
-		<identifier>	Scene Root	</identifier>
-		<transform>
-			<row0>	1.000000 0.000000 0.000000	</row0>
-			<row1>	0.000000 1.000000 0.000000	</row1>
-			<row2>	0.000000 0.000000 1.000000	</row2>
-			<row3>	0.000000 0.000000 0.000000	</row3>
-		</transform>
-		<node>
-			<identifier>	Bofors	</identifier>
-			<transform>
-				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-			</transform>
-			<node>
-				<identifier>	HP_gunFire1	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
-					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
-					<row3>	0.059542 0.198863 0.139512 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_gunFire2	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
-					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
-					<row3>	0.042095 0.198863 0.139512 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_gunFire3	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
-					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
-					<row3>	-0.042095 0.198863 0.139512 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	HP_gunFire4	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 0.866025 -0.500000 0.000000	</row1>
-					<row2>	0.000000 0.500000 0.866025 0.000000	</row2>
-					<row3>	-0.059540 0.198863 0.139512 1.000000	</row3>
-				</transform>
-			</node>
-		</node>
-	</node>
-	<renderSet>
-		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
-		<node>	Bofors	</node>
-		<geometry>
-			<vertices>	AGA056_40mm_Bofors.vertices	</vertices>
-			<primitive>	AGA056_40mm_Bofors.indices	</primitive>
-			<primitiveGroup>	0
-				<material>
-					<identifier>	SHIPMATX_PBS_GunX	</identifier>
-					<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/gun/AGA056_40mm_Bofors.mfm	</mfm>
-				</material>
-			</primitiveGroup>
-		</geometry>
-	</renderSet>
+	<renderSets>
+		<renderSet>
+			<name>	AGA056_40mm_Bofors	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bofors	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/gun/AGA056_40mm_Bofors.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bofors_lodShape1	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bofors	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/gun/AGA056_40mm_Bofors.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bofors_lodShape2	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bofors	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/gun/AGA056_40mm_Bofors.mfm	</mfm>
+			</material>
+		</renderSet>
+		<renderSet>
+			<name>	Bofors_lodShape3	</name>
+			<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+			<nodes>
+				<node>	Bofors	</node>
+			</nodes>
+			<material>
+				<identifier>	SHIPMATX_PBS_GunX	</identifier>
+				<mfm>	PnFMods/SEA_KRE_Chuukanseiki(Midway)/ASA110_Midway/gun/AGA056_40mm_Bofors.mfm	</mfm>
+			</material>
+		</renderSet>
+	</renderSets>
+	<lods>
+		<lod>
+			<extent>	2.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	AGA056_40mm_Bofors	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	5.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Bofors_lodShape1	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	15.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Bofors_lodShape2	</renderSet>
+			</renderSets>
+		</lod>
+		<lod>
+			<extent>	100.000000	</extent>
+			<castsShadow>	false	</castsShadow>
+			<renderSets>
+				<renderSet>	Bofors_lodShape3	</renderSet>
+			</renderSets>
+		</lod>
+	</lods>
 </AGA056_40mm_Bofors.visual>
